@@ -8,7 +8,7 @@
     </test>
     <test name="Test2">
         <classes>
-            <class name="com.tingge.cases.RegisterCase"/>
+            <class name="com.tingge.cases.LoginCase"/>
         </classes>
     </test>
 
